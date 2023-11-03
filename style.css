@@ -1021,21 +1021,17 @@ footer {
     }
     
     footer {
-
         display: flex;
         flex-direction: column;
         align-items: center;
-
     }
     .conteiner-footer {
         max-width: 319px;
         height: auto;
-        margin: 107px auto;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-        padding: 10px;
     }
     
     .colunas-footer {
@@ -1044,52 +1040,10 @@ footer {
         width: 319px;
         height: auto;
         gap: 40px 75px;
-
-    }
-    
-    .colunas-lista {
-        display: flex;
-        flex-direction: column;
-        width: 121px;
-        height:223px;
-        gap: 19px;
-        list-style: none;
-
-    }
-    
-    .colunas-lista > h3 {
-    
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 30px;
-        letter-spacing: 0.10000000149011612px;
-        text-align: left;
-        margin-bottom: 20px;
-        
     }
     
     .rows-footer {
-        display: flex;
-        flex-direction: column;
-        width: 319px;
-        height: 190.99px;
-        gap: 15px;
         margin-top: 86px;
     }
-    
-    .footerflex {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-
-    }
-    
-    .flex-logo {
-        display: flex;
-        align-items: center;
-        gap: 24px;
-        margin-top: 10px;
-    }
-    
-    
+      
 }
